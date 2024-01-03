@@ -1,0 +1,9 @@
+.imges {
+  background-image: url(./images/7.jpg);
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  color: white;
+
+}
+
